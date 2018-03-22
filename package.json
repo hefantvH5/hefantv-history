@@ -1,6 +1,6 @@
 {
   "name": "hefantv-history",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "keyswords": [
     "connect",
