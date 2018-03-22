@@ -1,6 +1,6 @@
 {
-  "name": "connect-history-api-fallback",
-  "version": "1.5.0",
+  "name": "hefantv-history",
+  "version": "1.6.0",
   "description": "Provides a fallback for non-existing directories so that the HTML 5 history API can be used.",
   "keyswords": [
     "connect",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/bripkens/connect-history-api-fallback.git"
+    "url": "git@github.com:hefantvH5/hefantv-history.git"
   },
   "author": {
     "name": "Ben Ripkens",
